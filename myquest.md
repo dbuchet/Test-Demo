@@ -13,7 +13,7 @@ Where you can add whatever you want and display it as code
 https://www.google.com
 # Link Title
 Link Description
-can be multiline
+SHOULD be multiline
 ```
 
 ```alert-warning
